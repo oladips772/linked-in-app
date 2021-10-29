@@ -1,0 +1,50 @@
+.post{
+    flex: 0.55;
+    margin-left: 330px;
+    margin-top: 10px;
+    width: 100%;
+    margin-right: -10px;
+}
+.post-header{
+    background: white;
+    padding: 10px 10px 20px 10px;
+}
+.header-inputz{
+    border: 1px solid lightgray;
+    border-radius: 18px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.header-inputz form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-inputz form input{
+    margin-left: 5px;
+    width: 450px;
+    height: 100%;
+    outline: none;
+    border: none;
+    font-size: 17px;
+}
+.write-icon{
+    margin-left: 10px;
+    color: gray !important;
+}
+.header-inputz  button{
+    display: none;
+}
+.header-option{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.post-feed{
+    width: 100%;
+    /* background: white; */
+    margin-top: 13px;
+    padding: 10px 0px;
+}

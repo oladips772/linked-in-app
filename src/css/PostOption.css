@@ -1,0 +1,14 @@
+.post-option{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 7px;
+    border-radius: 3px;
+    color: grey;
+}
+.post-option:hover{
+    background: #e2e9f2;
+}
+.option-icon{
+    margin-right: 7px;
+}
